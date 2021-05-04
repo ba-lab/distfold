@@ -1,6 +1,7 @@
 #!/usr/bin/perl -w
 # CONFOLD updated to accept distance constraints
-# version 1.1, Badri Adhikari, 10/28/2020
+# version 1.1, Badri Adhikari & Matthew Bernardini, 10/28/2020
+# University of Missouri-St. Louis
 
 use strict;
 use warnings;
