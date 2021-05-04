@@ -42,7 +42,7 @@ cd ../../
 ## Step 2. Download `distfold.pl`
 
 ```
-wget ???????
+wget https://raw.githubusercontent.com/ba-lab/distfold/main/distfold.pl
 ```
 
 ## Step 3. Test `distfold.pl`
